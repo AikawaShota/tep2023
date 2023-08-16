@@ -3,9 +3,12 @@ Use for Top engineer Experience Program.
 
 ## introduction
 ### Table of contents
-- What is Git
+- What is TEP
   - Overview
-  - How to use
+  - Why TEP?
 - What is GitHub
   - Overview
   - How to use
+
+Let's do TEP.
+
